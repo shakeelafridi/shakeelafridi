@@ -34,7 +34,7 @@ My technical expertise includes:
 | Category        | Technology                                                                                               |
 |-----------------|----------------------------------------------------------------------------------------------------------|
 | Backend         | Python, Django, DRF, FastAPI                                                                             |
-| Frontend        | HTML, CSS, Bootstrap, JS, jQuery, Angular                                                                |
+| Frontend        | HTML, CSS, Bootstrap, JS, jQuery, React                                                                |
 | SQL Databases   | PostgreSQL, MySQL, SQLite, MySQL Server                                                                  |
 | NoSQL Databases | CosmosDB, MongoDB, Firebase, DynamoDB                                                                    |
 | Data Structure  | Memecache, Redis, Simple Cache                                                                           |
