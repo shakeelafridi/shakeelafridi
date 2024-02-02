@@ -17,15 +17,12 @@ With a proven track record of success, I have worked with top companies such as
 - Cheetay
 
 ## Projects
-1. [kwkDrop.v2](https://github.com/shakeelafridi/be-kwk-v2)
-2. [kwkDrop.v1](https://github.com/shakeelafridi/be-kwkdrop-v1)
-3. [YOH](https://github.com/shakeelafridi/yoh-fastapi)
-4. [Fitstar](https://github.com/shakeelafridi/fitstarpro)
-5. [MLX](https://github.com/shakeelafridi/mlxreader)
-6. [Medsta](https://github.com/shakeelafridi/medsta)
-7. [Gemnine](https://github.com/shakeelafridi/be-gamnine)
-8. [Docx Scripting](https://github.com/shakeelafridi/docx-scripting)
-9. [Djnago Kafka](https://github.com/shakeelafridi/djangokafka)
+1. [YOH](https://github.com/shakeelafridi/yoh-fastapi)
+2. [MLX](https://github.com/shakeelafridi/mlxreader)
+3. [Medsta](https://github.com/shakeelafridi/medsta)
+4. [Gemnine](https://github.com/shakeelafridi/be-gamnine)
+5. [Docx Scripting](https://github.com/shakeelafridi/docx-scripting)
+6. [Djnago Kafka](https://github.com/shakeelafridi/djangokafka)
 
 
 ## Technology Stack
