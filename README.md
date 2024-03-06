@@ -34,7 +34,7 @@ My technical expertise includes:
 | Frontend        | HTML, CSS, Bootstrap, JS, jQuery, React                                                                |
 | SQL Databases   | PostgreSQL, MySQL, SQLite, MySQL Server                                                                  |
 | NoSQL Databases | CosmosDB, MongoDB, Firebase, DynamoDB                                                                    |
-| Data Structure  | Memecache, Redis, Simple Cache                                                                           |
+| Data Structure  | Memecache, Redis                                                                                         |
 | Deployment      | Nginx, Docker, Kubernetes, PM2                                                                           |
 | Cloud           | AWS Lambda, ECS, ECR, EKS, S3, API Gateway, API Gateway Authorization, CloudWatch, Microsoft Azure, AWS, DigitalOcean, Linode, Heroku, AKS, Container Registry, Azure Storages, Azure IoT Hub |
 | Microservices   | Apache Kafka, RabitMQ |
@@ -49,7 +49,7 @@ My proficiency includes the following tools:
 | IDEs                   | PyCharm, VSCode, Atom, Eclipse, IntelliJ IDEA, NetBeans |
 | Version Control        | GitHub, GitLab, BitBucket, Subversion (SVN), Mercurial, Perforce |
 | Remote Desktop         | Remmina, TeamViewer, AnyDesk, VNC Viewer           |
-| Project Management     | Jira, ClickUp, MS Teams, Discord, Slack, Google Chat, Trello, Asana, Basecamp, Monday.com |
+| Project Management     | Jira, ClickUp, MS Teams, Discord, Slack, Google Chat, Trello, Asana |
 | Databases              | MongoDB Compass, Apache, phpMyAdmin, MySQL Workbench, Oracle SQL Developer, pgAdmin |
 | Command Line Interface | Azure CLI, SSH, Cygwin, PowerShell, Windows Terminal |
 | Productivity           | Notion, Google Workspace (formerly G Suite), Microsoft Office, Evernote |
