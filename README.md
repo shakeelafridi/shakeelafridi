@@ -3,7 +3,7 @@
 
 
 
-# Sr. Software Engineer (Python/Django)
+# Sr. Software Engineer (Python)
 
 Experienced software developer specialized in Backend, Web Apps, Mobile Apps and IoT-based real-time solution. Dedicated to continuous learning and growth, and always eager to take on new challenges. Seeking collaboration opportunities for software development projects. Let's work together to bring your ideas to life!
 
@@ -30,8 +30,8 @@ My technical expertise includes:
 
 | Category        | Technology                                                                                               |
 |-----------------|----------------------------------------------------------------------------------------------------------|
-| Backend         | Python, Django, DRF, FastAPI                                                                             |
-| Frontend        | HTML, CSS, Bootstrap, JS, jQuery, React                                                                |
+| Backend         | Python, Django, DRF, FastAPI, Flask                                                                      |
+| Frontend        | HTML, CSS, Bootstrap, JS, jQuery, React                                                                  |
 | SQL Databases   | PostgreSQL, MySQL, SQLite, MySQL Server                                                                  |
 | NoSQL Databases | CosmosDB, MongoDB, Firebase, DynamoDB                                                                    |
 | Data Structure  | Memecache, Redis                                                                                         |
