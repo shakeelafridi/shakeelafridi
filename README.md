@@ -55,7 +55,6 @@ My proficiency includes the following tools:
 | Productivity           | Notion, Google Workspace (formerly G Suite), Microsoft Office, Evernote |
 | API Development        | Postman, Swagger, Restlet Studio, Insomnia, Paw    |
 
-## Contact
 
 Let's connect on [LinkedIn][1]
 
