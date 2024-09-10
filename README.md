@@ -56,6 +56,8 @@ My proficiency includes the following tools:
 | API Development        | Postman, Swagger, Restlet Studio, Insomnia, Paw    |
 
 
+## Contact
+
 Let's connect on [LinkedIn][1]
 
 [1]: https://pk.linkedin.com/in/shakeel-afridi-a7208320a
