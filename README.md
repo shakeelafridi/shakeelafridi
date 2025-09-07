@@ -10,7 +10,8 @@ Experienced software developer specialized in Backend, Web Apps, Mobile Apps and
 ## Professional Experience
 With a proven track record of success, I have worked with top companies such as 
 - Vodafone
-- ATSG
+- Takamol Holding
+- XTIUM
 - HyperNym
 - Lynxera
 - TechKor
