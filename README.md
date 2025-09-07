@@ -3,7 +3,7 @@
 
 
 
-# Sr. Software Engineer (Python)
+# Software Engineer
 
 Experienced software developer specialized in Backend, Web Apps, Mobile Apps and IoT-based real-time solution. Dedicated to continuous learning and growth, and always eager to take on new challenges. Seeking collaboration opportunities for software development projects. Let's work together to bring your ideas to life!
 
