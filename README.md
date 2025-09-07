@@ -58,7 +58,4 @@ My proficiency includes the following tools:
 
 ## Contact
 
-Let's connect on [LinkedIn][1]
-
-[1]: https://pk.linkedin.com/in/shakeel-afridi-a7208320a
-You can also hire me on [Upwork](https://www.upwork.com/freelancers/~01873c3116e6b11560) or [Fiverr](https://www.fiverr.com/shakee7659)
+You can also hire me on [Upwork](https://www.upwork.com/freelancers/~01873c3116e6b11560)
